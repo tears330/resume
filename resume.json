@@ -2,150 +2,137 @@
   "basics": {
     "name": "张忠远",
     "label": "前端研发工程师",
-    "picture": "http://img5.duitang.com/uploads/item/201606/27/20160627221112_sZvRA.jpeg",
+    "pictureUrl": "http://ww1.sinaimg.cn/large/73797f53gw1f8ou875kqmj20gv0gvabl.jpg",
     "email": "tears330@gmail.com",
     "phone": "18304587685",
-    "summary": "文艺型程序员，摇摆在技术与业务的边界",
-    "website": "http://zzfe.top",
-    "location": {
-      "address": "浙江省杭州市"
-    },
+    "website": "http://zzfe.top/",
+    "summary": "文艺型程序员，摇摆在技术与游戏之间",
+    "location": "杭州，浙江",
     "profiles": [
       {
-        "network": "github",
-        "username": "tears330",
+        "network": "Github",
         "url": "https://github.com/tears330"
       }
     ]
   },
-  "work": [
-    {
-      "company": "杭州鲜趣闪购网络科技有限公司(手机淘宝App-手淘便利店/闪电购App)",
-      "position": "前端研发工程师(实习)",
-      "website": "手机淘宝App-手淘便利店/闪电购App",
-      "startDate": "2016-06-01",
-      "endDate": "2017-06-01",
-      "summary": "从事移动端WebApp开发和Hybrid App开发",
-      "highlights": [
-        "构建Hybrid App，构建H5页面同Native开发者一起组建跨平台应用",
-        "开发基础UI组件",
-        "解决跨平台兼容性问题:Android不同版本机型、Android与iOS渲染差异"
-      ]
-    },
-    {
-      "company": "深圳屋托邦资产管理有限公司",
-      "position": "前端研发工程师(实习)",
-      "startDate": "2015-01-01",
-      "endDate": "2015-06-01",
-      "summary": "负责微信移动端页面重构，进行响应式网页开发",
-      "highlights": [
-        "根据视觉构建页面模板提供给Java后端"
-      ]
-    },
-    {
-      "company": "东北石油大学计算机与信息技术学院",
-      "position": "Web 开发者",
-      "startDate": "2015-12-01",
-      "endDate": "2016-01-01",
-      "summary": "独立开发学院作业、试卷、报告管理系统",
-      "highlights": [
-        "基于aspx.net+SQLServer,前端页面使用bootstarp构建",
-        "支持为不同老师提供不同权限分配",
-        "支持文档的doc在线预览",
-        "支持对上传文件的管理与修改"
-      ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "东北石油大学",
-      "area": "黑龙江省大庆市",
-      "studyType": "计算机科学与技术",
-      "startDate": "2013-09-01",
-      "endDate": "2017-07-01"
-    }
-  ],
-  "skills": [
-    {
-      "name": "前端FrontEnd",
-      "level": "master",
-      "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript",
-        "jQuery",
-        "BootStarp",
-        "Hybrid",
-        "zepto",
-        "React",
-        "ECMAScript6"
-      ]
-    },
-    {
-      "name": "后端BackEnd",
-      "level": "master",
-      "keywords": [
-        "aspx.net",
-        "node"
-      ]
-    },
-    {
-      "name": "前端工程化Frontend engineering",
-      "level": "master",
-      "keywords": [
-        "npm",
-        "webpack",
-        "gulp"
-      ]
-    },
-    {
-      "name": "工具类Tools",
-      "level": "master",
-      "keywords": [
-        "sublimeText",
-        "git",
-        "svn",
-        "xMind",
-        "photoShop",
-        "zsh shell"
-      ]
-    }
-  ],
-  "interests": [
-    {
-      "name": "互联网",
-      "keywords": [
-        "从初中开始用WordPress建站",
-        "大学办过O2O送餐",
-        "好奇，学习与热爱"
-      ]
-    },
-    {
-      "name": "数码产品",
-      "keywords": [
-        "玩过塞班V2,V3,V5",
-        "折腾WindowMoblie",
-        "Mac重度使用者",
-        "Linux发行版换来换去",
-        "手机控",
-        "刷机狂魔",
-        "情怀",
-        "HTC G1",
-        "Iphone 3Gs",
-        "Ipod touch 1",
-        "Sony X1",
-        "Nokia 5800XM",
-        "Surface pro"
-      ]
-    },
-    {
-      "name": "音乐",
-      "keywords": [
-        "民谣吉他",
-        "布鲁斯口琴",
-        "李志",
-        "Brit-Pop"
-      ]
-    }
-  ]
+  "backGround": {
+    "about": "文艺型程序员，摇摆在技术与游戏之间",
+    "workExperience": [
+      {
+        "company": "Sketcher-A simple CLI to sketch your resume",
+        "position": "独立开发者",
+        "Date": {
+          "startDate": "2016-12-24",
+          "endDate": "2017-02-17"
+        },
+        "summary": "既然没有顺手的简历构建工具，为什么不自己写一个？",
+        "highlight": [
+          "生成简历模板JSON,并将JSON转换成响应式设计的单文件HTML或PDF",
+          "支持选择主题皮肤，一名前端工程师残存的审美",
+          "响应式的页面设计，不同的设备、一致的浏览体验",
+          "针对PDF文档做出针对性优化，便于A4纸张打印",
+          "这份简历由Sketcher驱动:)"
+        ]
+      },
+      {
+        "company": "杭州鲜趣闪购网络科技有限公司-闪电购",
+        "position": "前端研发工程师(实习)",
+        "Date": {
+          "startDate": "2016-06-01",
+          "endDate": "2017-06-01"
+        },
+        "summary": "从事移动端Hybrid App开发、运营营销相关CRM开发",
+        "highlight": [
+          "构建Hybrid App，构建H5页面同Native开发者一起组建跨平台应用",
+          "参加后台CRM业务的开发，推动建设统一的UI组件库"
+        ]
+      },
+      {
+        "company": "百度IFE2016暑期暑期训练",
+        "position": "主力Coder",
+        "Date": {
+          "startDate": "2016-03-01",
+          "endDate": "2016-05-29"
+        },
+        "summary": "入门前端并开始系统学习相关知识",
+        "highlight": [
+          "深入学习ES5，理解并使用语言相关特性",
+          "重构复杂页面，实现常见的UI交互效果",
+          "尝试使用JS实现一些简单的数据结构、图形化排序算法、在游戏中利用A*算法实现寻找路径"
+        ]
+      },
+      {
+        "company": "深圳屋托邦资产管理有限公司",
+        "position": "前端研发工程师(实习)",
+        "Date": {
+          "startDate": "2015-01-01",
+          "endDate": "2015-06-01"
+        },
+        "summary": "从事微信上页面重构，切图仔",
+        "highlight": [
+          "根据视觉图稿构建页面模板提供给Java后端"
+        ]
+      },
+      {
+        "company": "东北石油大学计算机与信息技术学院",
+        "position": "独立开发者",
+        "Date": {
+          "startDate": "2015-12-01",
+          "endDate": "2016-01-01"
+        },
+        "summary": "独立开发学院作业、试卷、报告Web管理系统",
+        "highlight": [
+          "基于aspx.net WebFrom+SQLServer, 前端页面使用bootstarp构建",
+          "支持为不同老师提供不同权限分配",
+          "支持对上传文件的管理与修改"
+        ]
+      }
+    ],
+    "skills": [
+      {
+        "name": "一味罗列库或框架意义不大，但还是写一些...",
+        "keywords": [
+          "ECMAScript6",
+          "React",
+          "Gulp",
+          "jQuery",
+          "BootStarp",
+          "git",
+          "Node.js",
+          "less"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "name": "东北石油大学",
+        "location": "黑龙江 大庆",
+        "major": "计算机科学与技术",
+        "Date": {
+          "startDate": "2013-09-01",
+          "endDate": "2017-07-01"
+        }
+      }
+    ],
+    "interests": [
+      {
+        "type": "Music",
+        "keywords": [
+          "李志",
+          "Brit-Pop",
+          "Folk",
+          "Suede",
+          "民谣吉他"
+        ]
+      },
+      {
+        "type": "Game",
+        "keywords": [
+          "Dota2",
+          "炉石传说",
+          "德州扑克"
+        ]
+      }
+    ]
+  }
 }
